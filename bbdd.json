@@ -7,13 +7,13 @@
     },
     {
       "id": 2,
-      "nomProducto": "bombom",
-      "cantidad": "15",
-      "valor": "15.500",
-      "direccion": "Calle 10 # 5-51",
-      "email": "kevinmora@gmail.com",
-      "numero": "321654975",
-      "password": "1234567"
+      "email": "kevin@gmail.com",
+      "password": "13456227"
+    },
+    {
+      "id": 3,
+      "email": "kevin@gmail.com",
+      "password": "13456227"
     }
   ],
   "Registro": [
@@ -27,6 +27,28 @@
       "direccion": "Calle 10 # 5-51",
       "email": "kevinmora@gmail.com",
       "password": "1234567"
+    },
+    {
+      "id": 2,
+      "tipodoc": "Tarjeta de identidad",
+      "numdoc": "98765431",
+      "nombre": "juan andres ",
+      "apellido": "castillo mora",
+      "numero": "3214678972",
+      "direccion": "Calle 100 # 5-10",
+      "email": "kevinmmorr@gmail.com",
+      "password": "9876543121"
+    },
+    {
+      "id": 3,
+      "tipodoc": "Tarjeta de identidad",
+      "numdoc": "98765431",
+      "nombre": "juan andres ",
+      "apellido": "castillo mora",
+      "numero": "3214678972",
+      "direccion": "Calle 100 # 5-10",
+      "email": "kevinmmorr@gmail.com",
+      "password": "9876543121"
     }
   ],
   "Compra": [
@@ -42,6 +64,16 @@
     },
     {
       "id": 2,
+      "nomProducto": "bombom",
+      "cantidad": "15",
+      "valor": "15.500",
+      "direccion": "Calle 10 # 5-51",
+      "email": "kevinmora@gmail.com",
+      "numero": "321654975",
+      "password": "1234567"
+    },
+    {
+      "id": 3,
       "nomProducto": "bombom",
       "cantidad": "15",
       "valor": "15.500",
