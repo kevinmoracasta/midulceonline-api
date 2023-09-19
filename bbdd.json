@@ -2,32 +2,70 @@
   "usuario": [
     {
       "id": 1,
+      "nombre": "kevin",
       "email": "kevinmora@gmail.com",
       "password": "1234567"
     },
     {
       "id": 2,
+      "nombre": "andres",
       "email": "kevin@gmail.com",
       "password": "13456227"
     },
     {
       "id": 3,
+      "nombre": "juan",
       "email": "kevin@gmail.com",
       "password": "13456227"
+    },
+    {
+      "nombre": "maria",
+      "email": "3007700592@GMAIL.COM",
+      "password": "asdasd",
+      "id": 4
+    },
+    {
+      "nombre": "1231",
+      "email": "kmora11@colegiodulcemaria.edu.co",
+      "password": "ftftftftf",
+      "id": 5
+    },
+    {
+      "nombre": "1231",
+      "email": "kmora11@colegiodulcemaria.edu.co",
+      "password": "qwqwqw",
+      "id": 6
+    }
+  ],
+  "auth": [
+    {
+      "id": 1,
+      "email": "3007700592@GMAIL.COM",
+      "password": "asasas"
+    },
+    {
+      "email": "3007700592@GMAIL.COM",
+      "password": "asasas",
+      "id": 2
+    },
+    {
+      "email": "asd@asd",
+      "password": "asdasd",
+      "id": 3
     }
   ],
   "productos": [
     {
       "id": 1,
       "categoria": "lacteos",
-      "region": "",
+      "region": "qwerty",
       "precio": 2000,
       "nombre": "",
-      "cantidaddispo": "",
-      "agotado": ""
+      "cantidaddispo": 1221,
+      "agotado": true
     }
   ],
-  "Compra": [
+  "compra": [
     {
       "id": 1,
       "nomProducto": "cocadillo",
@@ -57,6 +95,33 @@
       "email": "kevin@gmail.com",
       "numero": 322345975,
       "password": "2567"
+    },
+    {
+      "nomProducto": "postre",
+      "cantidad": "12",
+      "valor": "12",
+      "direccion": "12",
+      "email": "3007700592@GMAIL.COM",
+      "numero": "12",
+      "id": 4
+    },
+    {
+      "nomProducto": "postre",
+      "cantidad": "12",
+      "valor": "asd",
+      "direccion": "asd",
+      "email": "asdsad@asdd",
+      "numero": "12",
+      "id": 5
+    },
+    {
+      "nomProducto": "postre",
+      "cantidad": "12",
+      "valor": "12",
+      "direccion": "12",
+      "email": "3007700592@GMAIL.COM",
+      "numero": "12",
+      "id": 6
     }
   ]
 }
